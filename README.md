@@ -1,7 +1,7 @@
 # MyStopWatch
 
 This has maily three functionalities---->>
-1.)start--starts the stopwatch
+1.)start--starts the stopwatch <br/>
 2.)stop---stops the stopWatch
 3.)reset--Resets the timer to zero and stops it..
 
