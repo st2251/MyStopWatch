@@ -1,6 +1,6 @@
 # MyStopWatch
 
-This has maily three functionalities---->>
+This has maily three functionalities---->><br/>
 1.)start--starts the stopwatch <br/>
 2.)stop---stops the stopWatch <br/>
 3.)reset--Resets the timer to zero and stops it..<br/>
